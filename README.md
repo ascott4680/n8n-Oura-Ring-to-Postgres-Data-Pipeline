@@ -3,6 +3,7 @@
 I had a difficult time finding any information out there to connect n8n into Oura's Developer API. There's a standard n8n connector for rolled up data however, I wanted to pull down all endpoints. The below is a write up via Claude for getting your connection setup. 
 
 <img src="oura_workflow.png"/>
+
 ---
 
 # Oura Ring → n8n → Postgres: Full Data Pipeline
